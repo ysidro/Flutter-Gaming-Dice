@@ -14,30 +14,30 @@ Gaming Dice is a mobile application that simulates the rolling of dice, randomly
   <img src="demo/1.png" width="200" alt="Pantalla Principal"/>
 </div>
 
-### GIF Demostrativo
+### Demonstration GIF
 <div align="center">
   <img src="demo/app-demo.gif" width="300" alt="Demo de la aplicación"/>
 </div>
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️  Technologies Used
 
 - **Framework**: Flutter
 - **Lenguaje**:  Dart 
 
 
 
-### Prerrequisitos
+### Prerequisites
 - Flutter SDK
 
-## 📄 Licencia
+## 📄 License
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
 
-## 📞 Contacto
+## 📞 Contact
 
 **Portfolio**: [ysidroalmonte.com](https://ysidroalmonte.com)
 
-## 🙏 Agradecimientos
+## 🙏 Acknowledgments
 
 - [Flutter & Dart ](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
@@ -45,9 +45,9 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 
 <div align="center">
 
-### 🌟 ¡Si te gusta el proyecto, dale una estrella! ⭐
+### 🌟 ¡If you like the project, give it a star!! ⭐
 
-**[⬆ Volver arriba](#Flutter-Gaming-Dice)**
+**[⬆ Back to top](#Flutter-Gaming-Dice)**
 
 </div>
 
