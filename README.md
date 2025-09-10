@@ -47,7 +47,7 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 
 ### 🌟 ¡If you like the project, give it a star!! ⭐
 
-**[⬆ Back to top](#Flutter-Gaming-Dice)**
+**[⬆ Back to top](#-flutter-gaming-dice)**
 
 </div>
 
